@@ -22,6 +22,5 @@ class Codechef
             else
             System.out.println("no");
 	    }
-		// your code goes here
 	}
 }
